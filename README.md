@@ -1,5 +1,5 @@
 # Poetry
-## Exploiting the vulnerabilities
+## Exploiting the vulnerabilities.
 This app uses dependencies holding known vulnerabilities - two are direct and one is transitive.
 
 Here are the exploitable vulnerable packages: 
